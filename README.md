@@ -1,2 +1,1 @@
-# Lab2
-here is a change
+# Classification of cards using CNN and data augmentation
